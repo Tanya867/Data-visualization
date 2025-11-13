@@ -1,0 +1,22 @@
+order_id,customer_id,product,price,quantity,order_date,region
+1,C001,Laptop,800,1,1/5/2023,North
+2,C002,Phone,,2,1/6/2023,East
+3,C003,Tablet,250,NaN,1/7/2023,South
+3,C003,Tablet,250,NaN,1/7/2023,South
+4,C004,Lap-top,850,1,7/1/2023,west
+5,C005,HeadPhones,100.5,3,2023.01.08,SOUTH
+6,C006,Monitor,abc,2,1/9/2023,East
+7,C007,Phone,600,2,,north
+8,C008,Laptop,750,1,2023-13-01,West
+9,C009,Tablet,300,0,1/11/2023,East
+10,C010,Head phones,95,1,1/12/2023,East
+11,C011,Phone,550,2,1/12/2023,
+12,C012,Laptop,,2,1/13/2023,West
+13,C013,Monitor,400,1,1/14/2023,East
+14,C014,Laptop,800,1,14-01-2023,SOUTH
+15,C015,Tablet,280,2,1/15/2023,North
+16,C016,Phone,620,one,1/16/2023,East
+17,C017,Tablet,290,2,1/17/2023,West
+18,C018,Laptop,810,2,1/18/2023,East
+19,C019,HeadPhones,,3,1/19/2023,South
+20,C020,Monitor,450,NaN,1/20/2023,West
